@@ -1,0 +1,66 @@
+[
+  {
+  "id": "1",
+  "owner": {
+    "fullName": "Bill Tenon",
+    "name": "Bill",
+    "id": "1",
+    "avatar": "https://cdn.pixabay.com/photo/2013/07/13/10/07/man-156584__340.png"
+  },
+  "location": "NewYork",
+  "likesCount": 15,
+  "photos": [
+      "https://images.pexels.com/photos/1167021/pexels-photo-1167021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/1260827/pexels-photo-1260827.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/671914/pexels-photo-671914.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+  ],
+    "comments": [
+      {
+        "userName": "Kelly",
+        "text": "some test comment was added by Kelly for this user"
+      }
+    ]
+ },
+  {
+    "id": "2",
+    "owner": {
+      "fullName": "Alice Swan",
+      "name": "Alice",
+      "id": "2",
+      "avatar": "https://cdn.pixabay.com/photo/2016/08/28/13/12/secondlife-1625903__340.jpg"
+    },
+    "location": "Bale",
+    "likesCount": 27,
+    "photos": [
+      "https://images.pexels.com/photos/1124092/pexels-photo-1124092.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "https://images.pexels.com/photos/2306365/pexels-photo-2306365.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    ],
+    "comments": [
+      {
+        "userName": "Kelly",
+        "text": "some test comment was added by Kelly for this user"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "owner": {
+      "fullName": "Jaxen Jab",
+      "name": "Jaxen",
+      "id": "3",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQioEzMO09xOuI5bEoiVI2hM1cdQfzNstBHpBeJyjV7Tb0aOToCmQ"
+    },
+    "location": "somewhere in time",
+    "likesCount": 100,
+    "photos": [
+      "https://ichef.bbci.co.uk/news/912/cpsprodpb/420D/production/_104990961_gettyimages-481229372.jpg"
+    ],
+    "comments": [
+      {
+        "userName": "Kelly",
+        "text": "some test comment was added by Kelly for this user"
+      }
+    ]
+  }
+]
+
